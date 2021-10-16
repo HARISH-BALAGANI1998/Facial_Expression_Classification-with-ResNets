@@ -1,0 +1,2 @@
+# Facial_Expression_Classification-with-ResNets
+In this project, I have trained a deep learning model based on CNN and Residual Blocks to detect facial expression. this project could be practically used for detecting customer emotions and facial expression. Facial expression serves as a basis for emotional AI applications like detecting customer emotional responses to Ads and Driver monitoring system.
